@@ -1,19 +1,38 @@
-<p> Oi gente! <strong>Eu sou a <em>Joysu<em> e esse é o vlog da Joysu!<strong>
-<p> Vou apresentar pra você toda a nossa turminha 
+<!DOCTYPE html>
+<html lang="pt-br">
+<head> 
+    <meta charset="UTF-8"
+   <title>Amiguinhos da Joysu</title>
+   <style>
+      p {
+         "text-aling:center"
+         }
+   </style>
+</head>
+<body>
 
-<p> <strong>TOIA:<strong> a vovó do grupo 
-<p> <strong>TITI:<strong> a nojinho 
-<p> <strong>CRIS:<strong> a esquilete 
-<p> <strong>JOYSU:<strong> a coelho
-<p> <strong>VINI:<strong> o esquisito
 
-<p> Somos um grupo até que bem unido, apesar das "briguinhas", nos damos muito bem.
+<h1 style="text-aling:center"> amiguinhos da Joysu</h1>
 
-<p> Mas agora, explicando os apelidos...
-<p> A toia adora usar coisnhas de vó, ela sempre tráz bolinho pra gente. 
-<p> Ja a titi, tem nojo de absolutamente tudo e todos, não se importa se uma pessoa fala dela ou não.
-<p> Falando da Cris, acho que só de olhar pro rostinho dela, ja da pra entender o motivo do apelido. Ela tem o rostinho pequeno, e o narizinho----
-<p> Joysu, bom, me chamam de coelho por conta do meu dentinho e eu amo esse apelido.
-<p> O Vini, então ele fala umas coisas meio estranhas, faz barulhos aleatórios e fala sozinho. Mas ele nos faz bem feliz. 
+  
+    <p style="font-size: 20px; text-aling:center"> Oi gente! <strong>Eu sou a <em>Joysu</em> e esse é o vlog da Joysu!</strong></p>
+    <p style="text-aling:center"> Vou apresentar pra você toda a nossa turminha<p>
 
-<p><strong> Joysu ama muito eles <3<strong>
+    <p> <strong>TOIA:</strong> a vovó do grupo</p>
+    <p> <strong>TITI:</strong> a nojinho</p> 
+    <p> <strong>CRIS:</strong> a esquilete</p>
+    <p> <strong>JOYSU:</strong> a coelho</p>
+    <p> <strong>VINI:</strong> o esquisito</p>
+
+  <p><em>Somos um grupo até que bem unido, apesar das "briguinhas", nos damos muito bem.</em></p>
+
+    <p> Mas agora, explicando os apelidos...</p>
+    <p> A toia adora usar coisnhas de vó, ela sempre tráz bolinho pra gente.</p>
+    <p> Ja a titi, tem nojo de absolutamente tudo e todos, não se importa se uma pessoa fala dela ou não.</p>
+    <p> Falando da Cris, acho que só de olhar pro rostinho dela, ja da pra entender o motivo do apelido. Ela tem o rostinho pequeno, e o narizinho----</p>
+    <p> Joysu, bom, me chamam de coelho por conta do meu dentinho e eu amo esse apelido.</p>
+    <p> O Vini, então ele fala umas coisas meio estranhas, faz barulhos aleatórios e fala sozinho. Mas ele nos faz bem feliz.</p>
+
+    <p><strong> Joysu ama muito eles <3</strong></p>
+</body>
+</html>
